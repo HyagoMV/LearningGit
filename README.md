@@ -23,3 +23,8 @@ git commit -m "first commit"
 
  - Atualiza um branch local com conteúdo de um branch remota
  - Atualiza os dados do rastriamento da branch remota
+    
+    
+    # Pergunsta
+    ## Como renomear um repositório Git existente?
+    ``` git remote rename <old> <new> ```
