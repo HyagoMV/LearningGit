@@ -25,6 +25,6 @@ git commit -m "first commit"
  - Atualiza os dados do rastriamento da branch remota
     
     
-    # Pergunsta
-    ## Como renomear um repositório Git existente?
-    ``` git remote rename <old> <new> ```
+# Perguntas
+## Como renomear um repositório Git existente?
+``` git remote rename <old> <new> ```
