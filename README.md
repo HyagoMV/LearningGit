@@ -26,5 +26,16 @@ git commit -m "first commit"
     
     
 # Perguntas
-## Como renomear um repositório Git existente?
+## Git REPOSITORY 
+### Como renomear um Git REPOSITORY existente?
 ``` git remote rename <old> <new> ```
+
+## Git BRANCH 
+## Como criar uma Git BRANCH?
+``` ```
+    
+## Como excluir um Git BRANCH?
+``` ```     
+    
+## Como renomear um Git BRANCH?
+``` ```     
